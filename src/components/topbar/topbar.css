@@ -50,7 +50,7 @@ ul li:visited {
 
 /* mouse over link */
 ul li:hover {
-  background: lightgray;
+  background: hsl(246, 18%, 19%);
   color: white;
 }
 .topListItem {
@@ -64,7 +64,7 @@ ul li:hover {
   font-size: 18px;
   color: #666;
   cursor: pointer;
-  margin-left: -120px;
+  
 }
 .maintxt {
   top: 8%;

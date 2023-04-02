@@ -1,5 +1,5 @@
 .register {
-    height: calc(110vh - 50px);
+    height: calc(100.5vh - 50px);
     display: flex;
     flex-direction: column;
     align-items: center;
